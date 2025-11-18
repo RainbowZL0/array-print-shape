@@ -1,4 +1,4 @@
-## array_print_shape
+# array_print_shape
 
 Github: [https://github.com/RainbowZL0/array-print-shape](https://github.com/RainbowZL0/array-print-shape)
 
