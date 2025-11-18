@@ -1,7 +1,7 @@
 [project]
-name = "torch_repr_shape"
+name = "array_print_shape"
 version = "0.0.2"
-description = "Patch torch.Tensor.__repr__ to include tensor shape."
+description = "Patch torch.Tensor and numpy.ndarray to print shape."
 readme = "README.md"
 requires-python = ">=3.8"
 dependencies = []
